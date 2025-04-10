@@ -1,0 +1,2 @@
+# forkpython
+exercicio SO
